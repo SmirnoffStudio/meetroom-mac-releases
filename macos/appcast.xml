@@ -3,12 +3,12 @@
     <channel>
         <title>Meetroom</title>
         <item>
-            <title>0.1.14</title>
-            <pubDate>Sun, 31 May 2026 23:22:25 +0000</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <title>0.1.15</title>
+            <pubDate>Mon, 01 Jun 2026 00:23:45 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/macos-v0.1.14-14/Meetroom-macOS.zip" length="24925017" type="application/octet-stream" sparkle:edSignature="XUqz94wsdn/awvvsK7dlMngY89bPwAMKLWFHZql3VAqG0oip/TUE3gzcbj1XCb9yPNpNzIQM/r7FYQB0T36WDw=="/>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/macos-v0.1.15-15/Meetroom-macOS.zip" length="24925246" type="application/octet-stream" sparkle:edSignature="NNpZq0MOxpoFFfrC5KA10Sfh4xTCGzr47c4WuY6e195vDEhVowLVQznPMEJx16hD6ApPLmi2xEiKGWKJX64UDg=="/>
         </item>
     </channel>
 </rss>
