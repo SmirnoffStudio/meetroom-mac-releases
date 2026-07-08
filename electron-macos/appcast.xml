@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Meetroom Desktop</title>
+        <item>
+            <title>0.1.16</title>
+            <pubDate>Wed, 08 Jul 2026 20:46:22 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/electron-macos-v0.1.16-16/Meetroom-Electron-macOS-Intel.zip" length="100204608" type="application/octet-stream" sparkle:edSignature="1Z2PhD0pe6dKRhethivPcqZ1r9bF4sfBeqDYu6SD2elZxV07AwMQggT2Ox/iKtRj3rRxjR1Y11W1ziLyMpFDDg=="/>
+        </item>
+    </channel>
+</rss>
