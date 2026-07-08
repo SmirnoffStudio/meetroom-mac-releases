@@ -4,11 +4,11 @@
         <title>Meetroom Desktop</title>
         <item>
             <title>0.1.16</title>
-            <pubDate>Wed, 08 Jul 2026 20:46:22 +0000</pubDate>
+            <pubDate>Wed, 08 Jul 2026 20:53:56 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/electron-macos-v0.1.16-16/Meetroom-Electron-macOS-Intel.zip" length="100204608" type="application/octet-stream" sparkle:edSignature="1Z2PhD0pe6dKRhethivPcqZ1r9bF4sfBeqDYu6SD2elZxV07AwMQggT2Ox/iKtRj3rRxjR1Y11W1ziLyMpFDDg=="/>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/electron-macos-v0.1.16-16/Meetroom-Electron-macOS.zip" length="174393607" type="application/octet-stream" sparkle:edSignature="Bs4kRuoevL+4mRayY/ua8MX5QOtlDC+5LCylaPGTWgbKQRKro3oNRR3ks0kA0YEWFJslxeHaAXioBbsLz5nHAQ=="/>
         </item>
     </channel>
 </rss>
