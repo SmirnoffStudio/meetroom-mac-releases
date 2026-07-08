@@ -3,21 +3,21 @@
     <channel>
         <title>Meetroom Desktop</title>
         <item>
-            <title>0.1.16</title>
-            <pubDate>Wed, 08 Jul 2026 22:32:18 +0000</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <title>0.1.17</title>
+            <pubDate>Wed, 08 Jul 2026 22:42:55 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/desktop-macos-v0.1.16-16/Meetroom-macOS-Apple-Silicon.zip" sparkle:edSignature="H79lXN2vR7OMqPmMrnqlBmDhZbVquwVkKtr4L/5M2ZksupVJgbYH7785MxyFNuiVb/9yiz8BPtIz3j2GuZT1BQ==" length="99968753" type="application/octet-stream"/>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/desktop-macos-v0.1.17-17/Meetroom-macOS-Apple-Silicon.zip" sparkle:edSignature="QVvJODYTXoIXLaJlRoLi6RNVQqAXHxd0E6C2KQub7jzAXaMlARjUmefJ5c1PJNhtpuN8qVWbnJh8jYQjztXgCA==" length="99073940" type="application/octet-stream"/>
         </item>
         <item>
-            <title>0.1.16</title>
-            <pubDate>Wed, 08 Jul 2026 22:32:18 +0000</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <title>0.1.17</title>
+            <pubDate>Wed, 08 Jul 2026 22:42:55 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/desktop-macos-v0.1.16-16/Meetroom-macOS-Intel.zip" sparkle:edSignature="QzTdnoG1arB9FSSnEOreV2XArVcL/XNrYRfbl1Xiu254sCZlsXR1SgTM7MyXlBCHB4QGRvQNtKf2roayGbuWDQ==" length="106060081" type="application/octet-stream"/>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-mac-releases/releases/download/desktop-macos-v0.1.17-17/Meetroom-macOS-Intel.zip" sparkle:edSignature="mP3O+/iB/BHTn3fy2yfwIg6ba6XxcwotFkpZbPe1nsOU2S/r5N32QirUhl3Ddn/iUU9UEeBIc5cbdTgo+uf7Bg==" length="106054696" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
